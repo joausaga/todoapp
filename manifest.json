@@ -1,0 +1,6 @@
+{
+  "name": "TodoApp",
+  "description": "Decentralized ToDo App",
+  "script": "/script.js",
+  "start_url": "/index.html"
+}
